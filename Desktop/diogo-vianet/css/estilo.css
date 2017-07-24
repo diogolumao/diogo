@@ -1,0 +1,74 @@
+/* **Formatação dass Classes** */
+.valor{
+/*  border: solid 1px red;*/
+  height: 40px;
+}
+.mais{
+  /*border: solid 1px red;*/
+  padding: 0 !important;
+  margin: 1% 0 0 0 !important;
+  font-family: "Open Sans Regular";
+  font-weight: bold;
+}
+.total{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.card-content{
+  padding: 0  !important;
+  margin: 0 5%!important;
+}
+.abas{
+  font-family: "Open Sans Regular";
+  font-size: 15px;
+}
+/* **Formatação das fontes internas** */
+@font-face {
+    font-family: "Open Sans Regular";
+    src: url(../fonts/opensans-regular.ttf);
+}
+/* **Formatação dos Cabeçalhos** */
+h1{
+  font-size: 40px!important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+h2{
+  font-size: 1.8em !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+h3{
+  font-size: 0.8em !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+h4{
+  font-size: 1.4em !important;
+  padding: 0 !important;
+  margin: 1% 0 0 0 !important;
+}
+/* **Formatação dos IDs** */
+#sessao1 {
+  height: 250px;
+}
+#sessao2 span{
+  font-family: "Open Sans Regular";
+  font-size: 1em !important;
+  padding: 3% 1% !important;
+  margin: 0 !important;
+}
+#sessao3 {
+  height: 350px;
+  margin: 3% 0;
+}
+#sessao4{
+  font-family: "Open Sans Regular";
+}
+#modal1{
+  font-family: "Open Sans Regular";
+}
+#favoritos{
+  font-family: "Open Sans Regular";
+  font-size: 18px;
+}
